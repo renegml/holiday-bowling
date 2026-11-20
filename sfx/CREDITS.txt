@@ -1,0 +1,20 @@
+Holiday Bowling's recorded sounds
+
+All are CC0 (public domain dedication: https://creativecommons.org/publicdomain/zero/1.0/) recordings from Freesound
+(https://freesound.org). No credit is required; they're listed here with thanks. Each was cut to a seamless loop or a
+short clip, mixed to mono, levelled, and saved as Ogg Opus.
+
+File             Freesound sound                                                   By
+roll.ogg         260778  Rolling Ball Loop (a bowling ball rolling)                SquirmTheVerm
+strike.ogg       766871  Bowling ball hitting pins for a strike                    ZusIsKing
+pin1-2.ogg       499788  Single bowling pin knock                                  Rvgerxini
+bells.ogg        478601  Sleigh Bells Shaking                                      se2001
+drums.ogg        198491  African tribal drums, beat 1 (Drum Africa, London)        peridactyloptrix
+firework1.ogg    736643  Fireworks3 (one firework explosion)                       vialgames
+firework2.ogg    336011  Sharp Explosion 4 (of 5) (a firework)                     Rudmer_Rotteveel
+horn.ogg         379617  party horn 1/3 clean                                      vewiu
+From Via Romana's sounds:
+wind.ogg         697217  Looping Gentle Wind Ambience on an Open Desert Plain      dhallcomposer
+walla.ogg        834339  Outdoors Walla                                            IENBA
+cheer.ogg        346689  Crowd cheer 2                                             (deleted user 2104797)
+crowd.ogg        566891  Medium Crowd Ambience Outdoor                             KikeVilaplana
